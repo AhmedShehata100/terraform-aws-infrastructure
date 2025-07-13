@@ -3,7 +3,7 @@ output "vpc_id" {
 }
 
 output "subnet_id" {
-  value = module.vpc.subnet_id
+  value = module.vpc.public_subnet_id
 }
 
 output "ec2_instance_ids" {
