@@ -68,7 +68,7 @@ Update the file `terraform.tfvars` with:
 **Ahmed Shehata**  
 Cloud Engineer | AWS | Terraform | Linux | DevOps Enthusiast
 
-[LinkedIn](https://www.linkedin.com/in/ahmed-shehata-cloud/) | [GitHub](https://github.com/AhmedShehata100)
+[LinkedIn](https://www.linkedin.com/in/ahmed-shehata10/) | [GitHub](https://github.com/AhmedShehata100)
 
 ---
 
