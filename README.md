@@ -46,7 +46,7 @@ Update the file `terraform.tfvars` with:
         terraform plan 
         terraform apply 
 
-4
+
 4. **Confirm to proceed when prompted**
 
 ---
